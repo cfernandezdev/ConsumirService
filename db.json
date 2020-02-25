@@ -1,10 +1,10 @@
   
 {
-"user ": {
+"user ": [
  {"id": 1, "name": "Christian Fernández", "username": "cfernandez", "email": "PRueba@gmail.com", "image": "https://images.app.goo.gl/kTHntGXnXybLhppf6"},
  {"id": 2, "name": "javier Fernández", "username": "cfernandez", "email": "PRueba@gmail.com", "image": "https://images.app.goo.gl/kTHntGXnXybLhppf6"},
  {"id": 3, "name": "Adrian Fernández", "username": "cfernandez", "email": "PRueba@gmail.com", "image": "https://images.app.goo.gl/kTHntGXnXybLhppf6"}
- }, 
+ ], 
   "posts": [
     { "id": 1, "title": "Porque es importante adoptar", "body": "Es importante adoptar porque...?", "userId": 1 },
     { "id": 2, "title": "prueba del servicio", "body": "Es importante probar el servic9io .?", "userId": 2 },
