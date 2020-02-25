@@ -1,6 +1,6 @@
   
 {
-"user ": [
+"users": [
  {"id": 1, "name": "Christian Fernández", "username": "cfernandez", "email": "PRueba@gmail.com", "image": "https://images.app.goo.gl/kTHntGXnXybLhppf6"},
  {"id": 2, "name": "javier Fernández", "username": "cfernandez", "email": "PRueba@gmail.com", "image": "https://images.app.goo.gl/kTHntGXnXybLhppf6"},
  {"id": 3, "name": "Adrian Fernández", "username": "cfernandez", "email": "PRueba@gmail.com", "image": "https://images.app.goo.gl/kTHntGXnXybLhppf6"}
